@@ -1,11 +1,11 @@
 {
-  "greeting": "Hiya",
-  "name": "Lydia",
-  "greetingText": "I really like your name btw!",
-  "wishText": "May the js.prototypes always be with you! ;)",
+  "greeting": "Helloo",
+  "name": "Meeaaww",
+  "greetingText": "I really like Lomdi btw!",
+  "wishText": "I Wish You are happy as fuck ;)",
   "imagePath": "img/lydia2.png",
   "text1": "It's your birthday!!! :D",
-  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy Happy return of the day",
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
   "text3": "But then I stopped.",
@@ -21,3 +21,5 @@
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
+
+
